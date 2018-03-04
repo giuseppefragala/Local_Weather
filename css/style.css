@@ -1,0 +1,33 @@
+h1{
+  color: #c9cc2e;
+  font-size: 80px;
+}
+
+h2{
+  color: #c9cc2e;
+  font-size: 50px;
+}
+
+#jumbo1{
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#jumbo2{
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 0px;  
+}
+#jumbo3{
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 0px;  
+}
+
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
+
+#temp{
+  color: #fff;
+}
